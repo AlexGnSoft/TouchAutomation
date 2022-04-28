@@ -1,0 +1,1 @@
+{"uuid":"59211dfe-9fce-4212-a05f-b15134ac92ae","name":"Search Test Suite","children":["39bfb264-58fc-4628-9dd5-266e20021d5c"],"befores":[],"afters":[{"name":"Закрываем браузер","status":"passed","stage":"finished","description":"Закрываем браузер","steps":[],"attachments":[],"parameters":[],"start":1651143109454,"stop":1651143109576}],"start":1651143098070,"stop":1651143109576}

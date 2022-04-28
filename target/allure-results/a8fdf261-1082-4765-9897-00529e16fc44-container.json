@@ -1,0 +1,1 @@
+{"uuid":"a8fdf261-1082-4765-9897-00529e16fc44","name":"TouchAutomation","children":["74e8291c-7de2-4a0a-bcb1-1b93cb1c58fc"],"befores":[],"afters":[{"name":"Очищаем куки и кэш","status":"passed","stage":"finished","description":"Очищаем куки и кэш","steps":[],"attachments":[],"parameters":[],"start":1651144724637,"stop":1651144724654}],"start":1651144711607,"stop":1651144724654}

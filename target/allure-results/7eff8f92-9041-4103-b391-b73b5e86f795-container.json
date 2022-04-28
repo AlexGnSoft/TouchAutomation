@@ -1,0 +1,1 @@
+{"uuid":"7eff8f92-9041-4103-b391-b73b5e86f795","name":"Default Suite","children":["5e2b3699-e2d3-4ac7-bb50-bda41d1dc4ac"],"befores":[],"afters":[{"name":"Закрываем браузер","status":"passed","stage":"finished","description":"Закрываем браузер","steps":[],"attachments":[],"parameters":[],"start":1651144702791,"stop":1651144702930}],"start":1651144695427,"stop":1651144702930}
